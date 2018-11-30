@@ -1,4 +1,6 @@
 **/.DS_Store
 **/phpmyadmin
 *.ftpconfig
-
+**/config.json
+**/rds_config.py
+**/package-lock.json
